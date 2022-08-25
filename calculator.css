@@ -1,0 +1,37 @@
+
+button{
+    background-color:rgb(133, 211, 237);
+    height: 100px;
+    width: 100px;
+    font-size: 50px;
+    margin-bottom: 1px;
+    
+    
+}
+
+button:hover{
+    background-color:rgb(40, 45, 151);
+}
+
+#display{
+    display: inline-block;
+    width: 412px;
+    height: 120px;
+    background-color: rgb(88, 212, 88);
+    font-size: 60px; 
+    margin-bottom: 0px;
+    padding: 0px 15px;
+
+}
+#zero1{
+    width: 204px;
+}
+body{
+    background-color: rgb(35, 33, 33);
+
+}
+
+form{
+    margin-top: 10vh;
+    margin-left: 36vw;
+}
